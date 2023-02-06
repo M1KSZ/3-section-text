@@ -1,3 +1,0 @@
-# Parallax-vertical-window-resizing-effect-and-customizations
-Feel free to use it 
-!!!ATTENTION!!! THIS IS NOT REAL PROJECT, IT'S AN EXAMPLE HOW TO CREATE A SIMPLE PARALLAX EFFECT ON RESIZING WINDOW. IF YOU THINK YOU HAVE BETTER OPTION FEEL FREE TO TEXT ME ON MY GMAIL: M1kZServices@gmail.com
