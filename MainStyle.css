@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace !important;
+}
+
+/* Pages/Sections customizations*/
+
+.FirstSection,
+.SecondSection,
+.ThirdSection {
+    height: 940px;
+    background-color: #333333;
+    width: 100%;
+}
+
+/* The main texts customizations */
+
+p.FirstText, p.SecondText, p.ThirdText{
+    position: relative;
+    font-size: 24px;
+    text-align: center;
+    top: 50%;
+    margin-bottom: 10px;
+}
+
+p.FirstText {
+    color: #7ac0da;
+}
+
+p.SecondText {
+    color: goldenrod;
+}
+
+p.ThirdText {
+    color: rebeccapurple;
+}
+
+/* The descriptions customizations */
+
+p.FirstDescription, p.SecondDescription, p.ThirdDescription{
+    position: relative;
+    top: 50%;
+    text-align: center;
+}
+
+p.FirstDescription {
+    color: #a4d4e6;
+}
+
+p.SecondDescription {
+    color: gold;
+}
+
+p.ThirdDescription {
+    color: mediumpurple;
+}
